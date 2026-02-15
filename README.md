@@ -8,13 +8,6 @@ The platform includes AI voice billing, frequent offline billing, inventory mana
 
 ---
 
-## Mandatory Documents
-
-- requirements.md  
-- design.md  
-
----
-
 ## Source Code Repositories
 
 Frontend (Flutter):  
